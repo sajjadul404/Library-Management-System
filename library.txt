@@ -1,0 +1,6 @@
+201|Bangla |Rakib|0
+301|Math|Khalid|0
+101|English|toni|0
+102|History|toni|0
+202|Religion|toni|0
+302|Social Studies|toni|0

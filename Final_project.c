@@ -1,3 +1,5 @@
+// Library Management System for BUBT
+// Author: SAJJADUL ISLAM
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
